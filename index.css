@@ -293,7 +293,7 @@ li a:hover{
 .e{
 	text-align: center;
 	font-size: 56px;
-	padding: 20px;
+	padding: 10px;
 }
 .contact_info{
   display: flex;
@@ -432,4 +432,5 @@ li a:hover{
 	text-align: center;
 	font-size: 18px;
 	padding: 10px;
+
 }
