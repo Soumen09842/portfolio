@@ -7,32 +7,27 @@
 }
 .a {
   display: flex;
-  justify-content: space-between; /* spread logo, nav, button */
-  align-items: center;            /* vertically center */
+  justify-content: space-between;
+  align-items: center;  
 }
-
 .nav {
   background-image: linear-gradient(to right, blue, royalblue, violet);
 }
-
 .logo {
   padding: 20px;
   font-size: 20px;
   color: white;
 }
-
 .nav-ber {
-  display: flex;   /* use flex instead of float */
-  gap: 10px;       /* space between items */
+  display: flex;  
+  gap: 10px;    
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
 li {
-  list-style: none; /* remove bullets */
+  list-style: none; 
 }
-
 li a {
   display: block;
   text-decoration: none;
@@ -42,16 +37,13 @@ li a {
   border-radius: 20px;
   transition: 0.3s;
 }
-
 li a:hover {
   background-color: white;
   color: black;
 }
-
 .buttonn {
   margin-right: 20px;
 }
-
 .button_a {
   text-decoration: none;
   font-size: 18px;
@@ -61,12 +53,10 @@ li a:hover {
   color: white;
   transition: 0.3s;
 }
-
 .button_a:hover {
   background-color: white;
   color: black;
 }
-
 .hero {
   display: flex;
   justify-content: space-between;
@@ -443,6 +433,7 @@ li a:hover {
 	font-size: 18px;
 	padding: 10px;
 }
+
 
 
 
