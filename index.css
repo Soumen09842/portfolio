@@ -152,7 +152,7 @@ li a:hover {
 }
 .project{
 	background-color: #f5f0ff;
-	height: 500px;
+	height: 600px;
 }
 .c{
 	padding-top: 40px;
@@ -165,7 +165,6 @@ li a:hover {
 	display: flex;
 	justify-content: space-around;
 	margin-top: 30px;
-	hight: auto;
 }
 .proj1{
 	background-color: #f5f4f2;
@@ -219,10 +218,6 @@ li a:hover {
 	background-color: #ff4081;
 	font-size: 28px;
 }
-.review{
-	background-color: #f5f4f2;
-	height: 400px;
-} 
 .review{
 	background-color: #f5f4f2;
 	height: 400px;
@@ -438,13 +433,4 @@ li a:hover {
 	font-size: 18px;
 	padding: 10px;
 }
-
-
-
-
-
-
-
-
-
 
