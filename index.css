@@ -163,6 +163,7 @@ li a:hover {
 }
 .my{
 	display: flex;
+	hight: auto;
 	justify-content: space-around;
 	margin-top: 30px;
 }
@@ -437,6 +438,7 @@ li a:hover {
 	font-size: 18px;
 	padding: 10px;
 }
+
 
 
 
